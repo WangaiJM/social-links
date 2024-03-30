@@ -1,0 +1,22 @@
+header {
+  text-align: center;
+
+  .img {
+    border-radius: 50%;
+    height: 5rem;
+    width: 5rem;
+  }
+  .title {
+    color: $white;
+    font-size: 1.6rem;
+  }
+  .sub-title {
+    color: $green;
+    font-size: 0.9rem;
+  }
+  .description {
+    color: rgba($white, 0.75);
+    font-size: 0.8rem;
+    padding: 1em 0;
+  }
+}
